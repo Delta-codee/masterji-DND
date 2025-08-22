@@ -352,13 +352,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Keyboard Navigation**: Full keyboard support
 - **Screen Reader**: ARIA labels and descriptions
 
----
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](link-to-issues)
-- **Discussions**: [GitHub Discussions](link-to-discussions)
-- **Documentation**: [Project Wiki](link-to-wiki)
 
 ---
 
