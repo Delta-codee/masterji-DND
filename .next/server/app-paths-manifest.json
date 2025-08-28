@@ -1,0 +1,6 @@
+{
+  "/(public)/page": "app/(public)/page.js",
+  "/admin/courses/page": "app/admin/courses/page.js",
+  "/api/auth/[...all]/route": "app/api/auth/[...all]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
